@@ -33,13 +33,14 @@ Automated tests validate that API endpoints work correctly.
 ---
 
 ### Project Structure
+```bash
 .
 ├── YougilePage.py # API interaction class  
 ├── test_yougile_proj.py # automated API tests with projects
 ├── test_yougile_tasks.py # automated API tests with tasks
 ├── .env # environment variables  
-└── README.md  
-
+└── README.md
+```
 ---
 
 ### API Class
