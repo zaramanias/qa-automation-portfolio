@@ -30,11 +30,12 @@ Automated tests validate that calculator operations work correctly.
 ---
 
 ### Project Structure
+```bash
 .
 ├── CalcPage.py # page object class  
 ├── test_calc.py # automated UI tests  
 └── README.md  
-
+```
 ---
 
 ### Page Object Class
