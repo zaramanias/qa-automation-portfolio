@@ -31,11 +31,12 @@ Automated tests validate that UI functionality works correctly.
 ---
 
 ### Project Structure
+```bash
 .
 ├── test_ui_page.py # page object class
 ├── test_ui.py # automated tests
 └── README.md
-
+```
 ---
 
 ### Page Object Class
