@@ -32,12 +32,13 @@ Automated tests validate that the checkout process works correctly.
 ---
 
 ### Project Structure
+```bash
 .
 ├── ShopPage.py # page object for shop page  
 ├── CartPage.py # page object for cart and checkout  
 ├── test_03_shop.py # automated UI tests  
-└── README.md  
-
+└── README.md
+```
 ---
 
 ### Page Object Classes
