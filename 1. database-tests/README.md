@@ -28,10 +28,12 @@ Automated tests validate that database operations work correctly.
 ---
 
 ### Project Structure
+```bash
 .
 ├── lesson_9_page.py # database interaction class
 ├── test_subjects.py # automated tests
 └── README.md
+```
 
 ---
 
